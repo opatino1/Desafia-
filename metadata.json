@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice-Powered Image Editor",
+  "description": "Upload an image and use voice commands or text prompts to apply edits. The app keeps a visual history of your changes, allowing you to track and revert modifications seamlessly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
